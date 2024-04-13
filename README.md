@@ -1,3 +1,3 @@
 Data Preparation
-Steps taken to prepare the data - Read in csv files, Data exploration, Changning data types to correct format, Making exploratory graphs, Removing unnecessary columns, Data aggregation, Tidying data, Filling in NaN values
+Steps taken to prepare the data - read in csv files, data exploration, changning data types to correct format, making exploratory graphs, removing unnecessary columns, data aggregation, tidying data, filling in NaN values
 
