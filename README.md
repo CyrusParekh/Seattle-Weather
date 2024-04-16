@@ -1,4 +1,4 @@
-Seattle Weather Project
+New York vs Seattle Weather Project
 
 Description: The purpose of this notebook is to discover and present findings on whether it rains more in New York or Seattle. 
 
