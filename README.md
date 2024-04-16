@@ -26,4 +26,6 @@ Data Preparation: Steps taken to prepare the data
 
 Author: The author of this project is Cyrus Parekh
 
+Find me here: https://www.linkedin.com/in/cyrus-parekh-b63272268/
+
 License: People may use the materials in this repository without restriction
